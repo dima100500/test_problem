@@ -1,5 +1,5 @@
 import java.util.Random;
-
+// govno code
 public class Entity {
 
     private int attack;
